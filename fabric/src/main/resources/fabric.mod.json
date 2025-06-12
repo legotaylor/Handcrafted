@@ -13,7 +13,8 @@
     "Facu",
     "Marc-IceBlade",
     "MsRandom",
-    "ThatGravyBoat"
+    "ThatGravyBoat",
+    "dannytaylor"
   ],
   "contact": {
     "website": "https://modrinth.com/mod/handcrafted",
@@ -37,7 +38,7 @@
   ],
   "depends": {
     "fabric-api": "*",
-    "minecraft": ">=1.21",
-    "resourcefullib": ">=3.0.0"
+    "minecraft": ">=1.21.5",
+    "resourcefullib": ">=3.5.0"
   }
 }

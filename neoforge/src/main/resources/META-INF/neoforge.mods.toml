@@ -10,7 +10,7 @@ displayName = "Handcrafted"
 displayURL = "https://modrinth.com/mod/handcrafted"
 logoFile = "icon.png"
 authors = "Alex Nijjar, Kekie6"
-credits = "CodexAdrian, Facu, Marc-IceBlade, MsRandom, ThatGravyBoat"
+credits = "CodexAdrian, Facu, Marc-IceBlade, MsRandom, ThatGravyBoat, dannytaylor"
 description = "Epic Furniture mod!"
 
 [[mixins]]
@@ -19,20 +19,20 @@ config = "handcrafted-common.mixins.json"
 [[dependencies.handcrafted]]
 modId = "neoforge"
 type="required"
-versionRange = "[21,)"
+versionRange = "[21.5,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.handcrafted]]
 modId = "minecraft"
 type="required"
-versionRange = "[1.21,)"
+versionRange = "[1.21.5,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.handcrafted]]
 modId = "resourcefullib"
 type="required"
-versionRange = "[3.0.0,)"
+versionRange = "[3.5.0,)"
 ordering = "NONE"
 side = "BOTH"
